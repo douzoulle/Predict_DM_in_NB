@@ -3,4 +3,3 @@ pandas
 streamlit==1.27.0
 scikit-learn
 mlxtend
-catboost==1.2.2
