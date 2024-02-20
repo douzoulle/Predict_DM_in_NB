@@ -1,5 +1,6 @@
 numpy
 pandas
 streamlit==1.27.0
+catboost==1.2.2
 scikit-learn
 mlxtend
